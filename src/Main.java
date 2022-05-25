@@ -5,5 +5,14 @@ public class Main {
 
         System.out.println("Pré ordem");
         no.imprirPreOrdem(no);
+        System.out.println(" ");
+
+        System.out.println("Em ordem");
+        no.imprirEmOrdem(no);
+        System.out.println(" ");
+
+        System.out.println("Pós ordem");
+        no.imprirPosOrdem(no);
+        System.out.println(" ");
     }
 }
