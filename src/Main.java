@@ -11,7 +11,7 @@ public class Main {
         no.imprirEmOrdem(no);
         System.out.println(" ");
 
-        System.out.println("Pós ordem");
+        System.out.println("Pós/ ordem");
         no.imprirPosOrdem(no);
         System.out.println(" ");
     }
